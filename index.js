@@ -33,5 +33,5 @@ $(document).ready(function(){
 		function noR(i,d) {
 		return (i - (i % d)) / d;
 	  }
-countdown("1 Jan 2023");
+countdown("1 Jan 2024");
 });
